@@ -1,1 +1,5 @@
 package lagrange
+
+func InterpolateLagrangePolynomial() {
+
+}
